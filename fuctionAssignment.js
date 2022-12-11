@@ -1,6 +1,6 @@
 console.log("===1.Two function with no argument no return type===");
 function codindFunction() {
-  console.log("Every day is sruggle with own destiny.");
+  console.log("Every day is struggle with own destiny.");
   console.log("Every day I am getting better and better.");
 }
 codindFunction();
