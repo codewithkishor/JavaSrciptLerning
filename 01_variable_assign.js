@@ -20,3 +20,5 @@ var gender="Male";
 var status="No";
 console.log(firstName, lastName, age, address, pin_code, gender, status)
 
+
+
