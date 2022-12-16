@@ -38,3 +38,5 @@ console.log(`Result is "Ten" ${sscResult("Ten")}`); // Invalid value
 console.log(`Result is -10 ${sscResult(-10)}`); // Invalid value
 console.log(`Result is null ${sscResult(null)}`); // Invalid value
 console.log(`Result is undefined ${sscResult(undefined)}`); // Invalid value
+
+
