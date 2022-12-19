@@ -21,4 +21,4 @@ var strMyNumber = myNumber.toString();
 console.log(`strMyNumber values ${strMyNumber} and it's type is: ${typeof strMyNumber}`);
 
 
-grad>70 || hsc>80 || ssc>90 ? eligible : not eligible;
+
