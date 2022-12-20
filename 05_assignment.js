@@ -29,3 +29,15 @@ function gradeCalculation(marks) {
     console.log("A");
   }
 }
+gradeCalculation(98);
+gradeCalculation(80);
+gradeCalculation(90);
+gradeCalculation(0);
+gradeCalculation(150);
+gradeCalculation(-7);
+gradeCalculation(35);
+gradeCalculation(29);
+gradeCalculation(64);
+gradeCalculation(49);
+gradeCalculation("91");
+gradeCalculation("Eighty");
