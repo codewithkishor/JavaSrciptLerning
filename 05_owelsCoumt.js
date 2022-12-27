@@ -21,6 +21,12 @@ for (let index = 0; index < sentence.length; index++) {
 }
 console.log(`Total vowels in string is : ${counter}`);
 
+
+
+
+
+
+
 console.log(`optimisation`); //may or may not be asked in interview
 
 // Print the vowels only aeiou or AEIOU
@@ -91,3 +97,7 @@ while (counter <= 1000) {
   console.log(5);
   counter = counter + 1;
 }
+
+
+
+

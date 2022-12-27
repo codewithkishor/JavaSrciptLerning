@@ -32,7 +32,7 @@ function hello(myName){
 }
 hello("Sachin");
 
-console.log("Function with arguments and return value");
+console.log("==================Function with arguments and return value=====================");
 function rajuBhaiya(paisa){
   console.log("Going in market", paisa);
   console.log("Purchased fresh vegetables", paisa);
