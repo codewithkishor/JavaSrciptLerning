@@ -35,6 +35,7 @@ for (oddNum of arrayNumber ) {
 console.log(`===============================================================`);
 console.log(`===== 6.Even Positioned Numbers available in array ====`);
 var arrayNumber=[20,31,40,25,23,11,29,9,60,2,11];
+
 for (let index = 0; index < arrayNumber.length; index++) {
   const element = arrayNumber[index];
     if (index % 2 ==0) {
