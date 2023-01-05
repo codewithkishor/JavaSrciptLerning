@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Storage Assignment</title>
+</head>
+
+<body>
+    <h2>Session Storage and Local Storage Assignment</h2>
+    <Script>
+
+        window.sessionStorage.setItem("name", "Kishor Bargaje");
+        window.sessionStorage.setItem("city", "Pandharpur");
+        window.sessionStorage.setItem("pinCode", "413304");
+        window.sessionStorage.setItem("district", "Solapur");
+
+        console.log(sessionStorage.getItem("name")); // "Kishor Bargaje"
+        console.log(sessionStorage.getItem("city")); // "Pandharpur"
+        console.log(sessionStorage.getItem("pinCode")); // "413304"
+        console.log(sessionStorage.getItem("district")); // "Solapur"
+
+        window.sessionStorage.removeItem("city");
+
+        console.log(sessionStorage.getItem("city")); // null
+
+
+    </Script>
+</body>
+
+</html>
