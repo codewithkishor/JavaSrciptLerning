@@ -39,3 +39,5 @@ console.log(arrayOfEven);
 array.forEach( (currentValue, index, array )=>{
     console.log(currentValue, "index: ", index);
 } );
+
+
